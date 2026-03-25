@@ -1,0 +1,17 @@
+{
+  "name": "Piggybanko",
+  "short_name": "Piggybanko",
+  "description": "Ahorra con tu cambio y potencia el comercio local",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FF007F",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
